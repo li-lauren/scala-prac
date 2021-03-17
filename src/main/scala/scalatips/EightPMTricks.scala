@@ -1,0 +1,5 @@
+package scalatips
+
+object EightPMTricks {
+
+}
